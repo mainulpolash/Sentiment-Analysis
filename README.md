@@ -6,6 +6,6 @@
 ** Task: My task is to use a deep learning model to find the total number of positive and negative review by prediction and evaluate the predicted using accuracy.
 
 ** Instruction:
-  **To run the code please install tensorflow and tensor hub in your python package. If any other import function is not available in your python, you also need install those.
+  **To run the code please install tensorflow and tensor hub in your python package. If any other import function is not available in your python, you also need to install those.
   
 
